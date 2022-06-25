@@ -4,9 +4,7 @@
 
 # Computer vision
 
-## Digital pathology
-
-[Colorectal Histology: images classification using ResNet architecture (PyTorch)](https://github.com/MariaZork/my-machine-learning-tutorials/blob/master/time-series-forecasting-part1-LSTM.ipynb)
+[Colorectal Histology MNIST: images classification using ResNet architecture (PyTorch)](https://github.com/MariaZork/my-machine-learning-tutorials/blob/master/colorectal-cancer-classification.ipynb)
 
 # Natural Language Processing
 
@@ -15,3 +13,5 @@
 # Standard Machine Learning Methods
 
 [Cyber Security: Phishing URL detection using standard machine learning methods](https://github.com/MariaZork/my-machine-learning-tutorials/blob/master/phishing_url_detection.ipynb)
+
+[Cyber Security: Detect Malicious JavaScript Code Using Machine Learning](https://github.com/MariaZork/my-machine-learning-tutorials/blob/master/JS_obfuscaton_detection.ipynb)

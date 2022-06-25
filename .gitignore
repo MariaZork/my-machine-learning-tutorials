@@ -127,7 +127,3 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
-
-# data folder
-/data/sec__edgar_sqllite/
-/data/uk company names/
