@@ -15,3 +15,7 @@
 [Cyber Security: Phishing URL detection using standard machine learning methods](https://github.com/MariaZork/my-machine-learning-tutorials/blob/master/phishing_url_detection.ipynb)
 
 [Cyber Security: Detect Malicious JavaScript Code Using Machine Learning](https://github.com/MariaZork/my-machine-learning-tutorials/blob/master/JS_obfuscaton_detection.ipynb)
+
+# Graph Neural Networks
+
+[Graph Neural Networks for Fraud Detection in Crypto Transactions](https://github.com/MariaZork/my-machine-learning-tutorials/blob/master/elliptic-dataset-gnn.ipynb)
