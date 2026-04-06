@@ -1,21 +1,30 @@
-# Time series forecasting
+# Machine Learning Tutorials
 
-[Time Series Forecasting: LSTM-based model for metro traffic prediction (PyTorch)](https://github.com/MariaZork/my-machine-learning-tutorials/blob/master/time-series-forecasting-part1-LSTM.ipynb)
+A collection of hands-on machine learning tutorials and projects - from classical ML to LLM engineering. Each project lives in its own folder with a notebook, data, and scripts.
 
-# Computer vision
+## Projects
 
-[Colorectal Histology MNIST: images classification using ResNet architecture (PyTorch)](https://github.com/MariaZork/my-machine-learning-tutorials/blob/master/colorectal-cancer-classification.ipynb)
+### LLM
+**[llm-finetuning-with-lora/](llm-finetuning-with-lora/)** - Fine-tune LLMs (Qwen2.5-3B) on the Légifrance legal code corpus using LoRA. Covers dataset preparation from open-data, training, evaluation (ROUGE, BERTScore, citation accuracy), and inference.
 
-# Natural Language Processing
+### Time Series Forecasting
+**[time-series-forecasting-lstm/](time-series-forecasting-lstm/)** - LSTM-based model for metro traffic prediction in PyTorch.
 
-[Start-up name generation using LSTM models](https://github.com/MariaZork/my-machine-learning-tutorials/blob/master/startup-name-generation.ipynb)
+### Computer Vision
+**[colorectal-cancer-classification/](colorectal-cancer-classification/)** - Colorectal Histology MNIST image classification using ResNet architecture in PyTorch.
 
-# Standard Machine Learning Methods
+### Natural Language Processing
+**[startup-name-generation/](startup-name-generation/)** - Generate startup names using LSTM language models.
 
-[Cyber Security: Phishing URL detection using standard machine learning methods](https://github.com/MariaZork/my-machine-learning-tutorials/blob/master/phishing_url_detection.ipynb)
+ **[phishing-url-detection/](phishing-url-detection/)** - Detect phishing URLs using standard machine learning methods.
 
-[Cyber Security: Detect Malicious JavaScript Code Using Machine Learning](https://github.com/MariaZork/my-machine-learning-tutorials/blob/master/JS_obfuscaton_detection.ipynb)
+ **[js-obfuscation-detection/](js-obfuscation-detection/)** - Detect malicious/obfuscated JavaScript code using machine learning.
 
-# Graph Neural Networks
+### Graph Neural Networks
+**[elliptic-dataset-gnn/](elliptic-dataset-gnn/)** - Fraud detection in Bitcoin transactions using Graph Neural Networks on the Elliptic dataset.
 
-[Graph Neural Networks for Fraud Detection in Crypto Transactions](https://github.com/MariaZork/my-machine-learning-tutorials/blob/master/elliptic-dataset-gnn.ipynb)
+## Requirements
+
+- Python 3.10+
+- PyTorch 2.0+
+- Jupyter Notebook / JupyterLab

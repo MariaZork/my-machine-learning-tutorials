@@ -1,0 +1,7 @@
+datasets==4.8.4
+evaluate==0.4.6
+peft==0.18.1
+Requests==2.33.1
+torch==2.11.0
+transformers==5.4.0
+trl==1.0.0
